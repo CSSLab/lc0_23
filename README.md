@@ -1,3 +1,7 @@
+# Lc0 23
+
+This is a snapshot of `lc0` version 23 to make reproducing the work on maia easier. For compiling on Ubuntu the version of `protoc` on your path can cause issues, [this](https://github.com/LeelaChessZero/lc0/pull/620) may be helpful. Otherwise the instructions on Ubuntu 18.04 have worked well.
+
 [![CircleCI](https://circleci.com/gh/LeelaChessZero/lc0.svg?style=shield)](https://circleci.com/gh/LeelaChessZero/lc0)
 [![AppVeyor](https://ci.appveyor.com/api/projects/status/3245b83otdee7oj7?svg=true)](https://ci.appveyor.com/project/leelachesszero/lc0)
 
